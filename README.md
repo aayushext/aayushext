@@ -42,6 +42,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien178&layout=compact&theme=vue-dark" alt=Alien178 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushext&layout=compact&theme=vue-dark" alt="aayushext" />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alien178&show_icons=true&locale=en&theme=vue-dark" alt="Alien178" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushext&show_icons=true&locale=en&theme=vue-dark" alt="aayushext" /></p>
